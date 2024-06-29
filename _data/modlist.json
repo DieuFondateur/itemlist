@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+c1a6b72ae87b798097ed6f22200e40e1f28ecc03"
+  },
+  {
+    "author": "sy4",
+    "name": "[SY4] Vanilla-Friendly Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "[Temp beta] Clean Pathfinding 2",
+    "steamId": "2887176193",
+    "version": "1.4"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
+  },
+  {
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.15+e47f2a43c3549eba2e541553addebcd030433e8d"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Murmur",
+    "name": "Faction Raid Cooldown",
+    "steamId": "2345845316",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "Rikiki",
+    "name": "FishIndustry",
+    "steamId": "758810805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "miyamiya and twsta",
+    "name": "Compressed Raid",
+    "steamId": "2927368319",
+    "version": "1.4"
+  },
+  {
+    "author": "Coalcat and sumghai",
+    "name": "Defensive Machine Gun Turret Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xavior",
+    "name": "Glitter Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "MrG3ba",
+    "name": "Healing Beds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "Supes",
+    "name": "Map Wide Orbital Trade Beacon",
+    "steamId": "1839069104",
+    "version": "1.0.0.2"
+  },
+  {
+    "author": "Neceros (Original) and Chris",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Big Veech",
+    "name": "Metals Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "notfood",
+    "name": "More Than Capable",
+    "steamId": "1803932954",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "MrG3ba",
+    "name": "Nano Technology",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.7.9"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "Acruid",
+    "name": "Repair Workbench",
+    "steamId": "733997423",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Dev Build",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.7364"
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.7"
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrG3ba",
+    "name": "StoneCutting x10 with exp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Toasteh and Updated by Ogliss",
+    "name": "Veinminer R1.1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrG3ba",
+    "name": "WorkSpeed Of Cabinets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Better Gene Inheritance",
+    "steamId": "3046776238",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Deep Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "alite",
+    "name": "Superhero Genes - Base",
+    "steamId": "2980061828",
+    "version": "1.0.8838.23252"
+  },
+  {
+    "author": "alite",
+    "name": "Expanded Biotech Style Genes - All in One",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TwoPenny",
+    "name": "Portraits of the Rim",
+    "steamId": "2937991425",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Yorn",
+    "name": "Yorn Expansion: Nekos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.5]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "tikubonn",
+    "name": "Don't Block Door",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PixelBirb",
+    "name": "Dynamic Weapon Cooldown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fredamabob",
+    "name": "Everything Is A Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Petre27",
+    "name": "Godlike Metabolism Gene",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sam",
+    "name": "Basic Double Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gege",
+    "name": "Better Surgery",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.2.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Powerful Faction Bases",
+    "steamId": "1570960972",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RebelRabbit and Taranchuk",
+    "name": "Quality Bionics",
+    "steamId": "2527206368",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BustedPretex",
+    "name": "Show Buildable Material Count",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Blood Animations",
+    "steamId": "3228047321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.1"
+  }
+]
